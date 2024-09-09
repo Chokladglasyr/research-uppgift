@@ -1,3 +1,6 @@
 At first I had set up an account on GitHub with the schools email, I did set up a personal one too, but I thought I would keep them separate. Today Hanna told us it would be more useful to use our personal one. So I changed my mind and switched. But when pushing my repo i got a permission denied by my school user, which was the one logged in before. I used git config to change username and email but i still saw the old username denying the repo, finally I found out the I had to change the credential.username. So I did that and then it worked! 
 
 So now Im trying to edit through the command vi
+
+
+And now im using the nano text editor.
