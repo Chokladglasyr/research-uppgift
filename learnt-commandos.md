@@ -14,4 +14,8 @@ git commit -m "message"
 echo "text in file" > newfile
 
 ```
-[**BACK**](/start.md)
+| Command | Terminal | Git | Description |
+|---|---|---|---|
+|ls -a| x | | Shows hidden files|
+
+[**BACK**](/README.md)
