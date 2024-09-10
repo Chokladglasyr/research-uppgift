@@ -5,13 +5,13 @@
 Naturligtvis så trodde jag att *text filerna* vad självaste readme filen, men det var det inte så här kommer en ny fil med lite mer i! 
 
 
-[## Startup mess!](/startup-mess.md)
+### [Startup mess!](/startup-mess.md)
 > About the awkward mess I made at start.
 
-[## Multiple user mess!](/uppgift2.md)
+### [Multiple user mess!](/uppgift2.md)
 > About how what happened when I tried to switch users.
 
-[## Commands I've learnt](/learnt-commandos.md)
+### [Commands I've learnt](/learnt-commandos.md)
 > A list of some of the commands I've used so far.
 
 In main branchen you can find the following files:
