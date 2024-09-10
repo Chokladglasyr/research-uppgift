@@ -1,4 +1,4 @@
-##Multiple user mess!
+## Multiple user mess!
 
 So at start i signed up with two differnet emails, one personal and one for school, but got recommended to not use school email. 
 At the end of school I thought I could just save the projects I wanted to keep, but then again fun to see it all from start too. 

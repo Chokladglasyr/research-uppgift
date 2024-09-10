@@ -1,4 +1,4 @@
-##A list of some of the commands I've used so far!
+## A list of some of the commands I've used so far!
 
 ```
 ls -a / ls -Hidden

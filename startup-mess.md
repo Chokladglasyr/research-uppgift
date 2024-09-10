@@ -1,4 +1,4 @@
-##Startup mess!
+## Startup mess!
 
 So last week when the videos from Olli got released I started with GitHub immediately. 
 I had troubles from the start, it didn't really look anything like Ollis screen and 
