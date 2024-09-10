@@ -10,5 +10,6 @@ Later that same weekend I had another go at it all, and thats when I realized it
 video first. So what I did to * *fix* * it was displayed in the first video, with explanation...
 
 ***Awkward!***
+:smiling_face_with_tear:
 
 [**BACK**](/uppgift1.md)
