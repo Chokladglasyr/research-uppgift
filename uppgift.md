@@ -4,6 +4,4 @@
 
 Naturligtvis så trodde jag att *text filerna* vad självaste readme filen, men det var det inte så här kommer en ny fil med lite mer i! 
 
-##Startup mess!
-
-[test](Documents\researchUppgift\newFile.txt)
+[##Startup mess!](\researchUppgift\newFile.txt)
