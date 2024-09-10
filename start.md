@@ -15,8 +15,9 @@ Naturligtvis så trodde jag att *text filerna* vad självaste readme filen, men 
 > A list of some of the commands I've used so far.
 
 In main branchen you can find the following files:
-+newFile.txt
-+terminal-Kommandon.txt
-+uppgift.md
+
++ newFile.txt
++ terminal-Kommandon.txt
++ uppgift.md
 
 These are the first files I worked with, I then continued in this branch instead.
