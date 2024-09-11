@@ -31,4 +31,6 @@ echo "text in file" > newfile
 | > newfile | x | | Creates a new file |
 | echo "text in file" > newfile | x | | Creates a new file with text inside |
 
+
+
 [**BACK**](/README.md)
