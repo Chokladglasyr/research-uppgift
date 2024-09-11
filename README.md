@@ -1,11 +1,12 @@
-# Idas uppgift
+# Welcome to Ida's research uppgift!
 
 ![Bild på mig](https://media.licdn.com/dms/image/v2/C5603AQFEzLlS5z3vpA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1524664061079?e=1731542400&v=beta&t=3VbH7htDK3zhEo5-mGzXRgYFbDlZb374OSsNY7q4AIo) 
 
+## Hello!  
 Of course I thought the first .txt files were what we were going to work with...  
-But now I realized the .md and .txt is NOT the same!  
+But now I've realized that .md and .txt is NOT the same!  
 So here I am, on a new branch, with .md files!   
-Several, just for the fun of it, for experimenting.  
+Several actually, just for fun and for experimenting.  
 
 
 ### [Startup mess!](/startup-mess.md)
@@ -24,3 +25,8 @@ In main branchen you can find the following files:
 + uppgift.md
 
 These are the first files I worked with, I then continued in this branch instead.
+
+## Useful links
+Markdown guides
+    -[From GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+    -[From Föreläsning](https://www.markdownguide.org/basic-syntax/)
