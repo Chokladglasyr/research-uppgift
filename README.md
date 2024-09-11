@@ -18,7 +18,8 @@ Several actually, just for fun and for experimenting.
 ### [Commands I've learnt](/learnt-commandos.md)
 > A list of some of the commands I've used so far.
 
-In main branchen you can find the following files:
+
+In main branch you can find the following files:
 
 + newFile.txt
 + terminal-Kommandon.txt
@@ -26,7 +27,15 @@ In main branchen you can find the following files:
 
 These are the first files I worked with, I then continued in this branch instead.
 
-## Useful links
-Markdown guides
-    -[From GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-    -[From Föreläsning](https://www.markdownguide.org/basic-syntax/)
+## Markdown guides
++ [From GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
++ [From Föreläsning](https://www.markdownguide.org/basic-syntax/)
+
+
+## To do list 
+- [x] create a new branch
+- [x] create a readme file
+- [x] use markdown to spice up files
+- [x] commit files
+- [x] push into a published repo on GitHub
+- [] merge branches

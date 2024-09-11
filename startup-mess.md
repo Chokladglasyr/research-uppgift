@@ -12,7 +12,7 @@ I managed to fix my problems but not knowing exactly what I did. So I messaged h
 Later that same weekend I had another go at it all, and thats when I realized it. I had watched the wrong
 video first. So what I did to fix it was displayed in the first video, **with** explanation...
 
-## ***Awkward!***
+ ***Awkward!***
 :smiling_face_with_tear:
 
 [**BACK**](/README.md)
