@@ -38,4 +38,6 @@ These are the first files I worked with, I then continued in this branch instead
 - [x] use markdown to spice up files
 - [x] commit files
 - [x] push into a published repo on GitHub
-- [] merge branches
+- [x] make a commit through GitHub
+- [x] pull from GitHub
+- [ ] merge branches
