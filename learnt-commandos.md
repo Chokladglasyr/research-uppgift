@@ -13,9 +13,15 @@ git commit -m "message"
 > newfile
 echo "text in file" > newfile
 
+
 ```
 | Command | Terminal | Git | Description |
 |---|---|---|---|
-|ls -a| x | | Shows hidden files|
+| ls -a| x | | Shows hidden files|
+| cd ..| x | | change directory, one down|
+| cd nameofdirectory | x | | change directory, to nameofdirectory|
+| git config --global user.name/email| | x | Sign into Git with username and email|
+| git add .| | x | Adds all files to staging area /index |
+| git push -u origin| | x | initializes an upstream and push to GitHub |   
 
 [**BACK**](/README.md)
