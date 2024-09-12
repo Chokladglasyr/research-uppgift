@@ -42,4 +42,4 @@ These are the first files I worked with, I then continued in this branch instead
 - [x] push into a published repo on GitHub
 - [x] make a commit through GitHub
 - [x] pull from GitHub
-- [ ] merge branches
+- [x] merge branches
