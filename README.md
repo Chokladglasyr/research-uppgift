@@ -8,7 +8,7 @@ But now I've realized that .md and .txt is NOT the same!
 So here I am, on a new branch, with .md files!   
 Several actually, just for fun and for experimenting.  
 
-Head over [here](##Markdown-guides) to see the guides I've used for learning markdown.
+Head over [here](#Markdown-guides) to see the guides I've used for learning markdown.
 
 
 ### [Startup mess!](/startup-mess.md)
